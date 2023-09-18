@@ -1,14 +1,14 @@
 body{
-    background-color: brown (189, 118, 247);
+    background: rgb(126, 0, 175);
 }
 h1{
     font-size: 70px;
-    color: black(45, 5, 82);
+    color: rgb(0, 255, 242);
     text-align: center;
 }
 p{
     font-size: 20px;
-    color: antiquewhite (210, 190, 14);
+    color: rgb(8, 255, 243);
     text-align: justify;
 }
 img 
